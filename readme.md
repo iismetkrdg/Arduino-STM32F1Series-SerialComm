@@ -5,7 +5,9 @@ I realized that I couldn't establish serial communication between my STM32F103C8
 
 ### Wiring Connection
 
-Arduino Uno P10 <=> STM32F103C8T6 PA2
-Arduino Uno P11 => STM32F103C8T6 PA3
+Arduino Uno P10 <=> STM32F103C8T6 PA2    
+
+Arduino Uno P11 => STM32F103C8T6 PA3    
+
 Arduino Uno GND => STM32F103C8T6 GND (if Arduino & STM32, both are not connected to the computer, STM32 for power)
 
